@@ -1,0 +1,2 @@
+# Building-Student-Data-Systems-from-Scratch-CGPA-Calculation-Insights-in-SQL-Server
+Student Data &amp; CGPA Analysis from Scratch Using SQL Server - Built a student information system from scratch: create and update tables, calculate CGPAs, maintain data integrity using primary &amp; foreign keys, retrieve student performance insights, and prevent grading/reporting errors. Applicable to education, finance, healthcare, and more.
